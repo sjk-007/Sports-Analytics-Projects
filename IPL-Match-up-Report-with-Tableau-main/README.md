@@ -12,7 +12,7 @@ This project analyzes IPL batter vs bowler matchups using advanced cricket analy
 
 * Match phase analysis
 
-* Bowling type effectiveness aganist the batter
+* Bowling type effectiveness against the batter
 
 
 ## Objective
@@ -23,7 +23,7 @@ To identify:
 
 * Bowler dominance patterns
   
-* Batter performances aganist all the bowlers
+* Batter performances against all the bowlers
 
 
 # Dashboards Included
